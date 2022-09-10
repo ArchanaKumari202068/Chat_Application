@@ -1,1 +1,1 @@
-Real Time Chat Application using NodeJs & socket.io
+Realtime Chat Application using NodeJs & socket.io
